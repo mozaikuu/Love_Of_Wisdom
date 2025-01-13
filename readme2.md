@@ -26,7 +26,7 @@ Treat this as a revision
 
 11. [ ] Ensemble Learning (multiple model learning)
 
-12. [ ] (Place_holder)
+12. [ ] subtract any time from pure time
 
 13. [ ] (Place_holder)
 
